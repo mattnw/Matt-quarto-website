@@ -13,6 +13,8 @@ website:
         text: Editing & Reviewing
       - href: teaching.qmd
         text: Teaching
+      - href: examination.qmd
+        text: Examining
       - text: "{{< ai orcid >}}"
         href: https://orcid.org/0000-0002-0571-215X
       - text: "{{< ai google-scholar >}}"
