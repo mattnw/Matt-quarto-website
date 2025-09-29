@@ -1,0 +1,11 @@
+## Examination of theses and research reports
+
+I currently co-ordinate examinations for research reports and Masterate theses in the School of Psychology at Massey University.
+
+I see thesis examination as an important service to the community, and am generally open to invitations to examine. When examining, I often find myself commenting on the topics listed below, so if you're considering inviting me to examine a thesis you may find it helpful to share these articles with the student:
+
+-   Open science practices (see [Crüwell et al., 2019](https://doi.org/10.1027/2151-2604/a000387)).
+
+-   Sample size justification (see [Lakens, 2022](https://doi.org/10.1525/collabra.33267)).
+
+-   Causal inference (see [Grosz et al., 2020](https://doi.org/10.1177/1745691620921521); [Mockett et al., 2024](https://doi.org/10.31234/osf.io/7rg83); [Rohrer et al., 2022](https://doi.org/10.1177/25152459221095827)). I find that many theses contain inconsistent claims about causality (e.g., disavowing causal inferences in the limitations section, but making action recommendations that rely on assumptions about causal effects elsewhere.)

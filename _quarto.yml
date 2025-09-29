@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Matt Williams"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Publications
+      - href: editing reviewing.qmd
+        text: Editing & Reviewing
+      - href: teaching.qmd
+        text: Teaching
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0002-0571-215X
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.co.nz/citations?user=-6cd7NQAAAAJ&hl=en
+
+
+format:
+  html:
+    theme:
+      - zephyr
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
