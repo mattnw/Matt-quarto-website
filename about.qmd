@@ -4,17 +4,21 @@ Berks, J., & Williams, M. N. (in press). Does conflictual dialogue improve a sto
 
 Feather, G., & Williams, M. N. (in press). A psychometric evaluation of the Climate Change Anxiety Scale. *New Zealand Journal of Psychology*. Postprint: <https://doi.org/10.31234/osf.io/uzf7j>
 
+Paing, L. A., O'Keefe, K. M. P., McMurtrie, B. L., & Williams, M. N. (in press). Does answering survey questions about mental health cause distress? *Meta-Psychology*. Postprint: <https://doi.org/10.31234/osf.io/pqnvx>
+
 ## Published articles
 
 Fox, N. D., Williams, M. N., & Hill, S. R. (2025). Do stress, depression, and anxiety lead to beliefs in conspiracy theories? *Clinical Psychological Science*. Advance online publication. <https://doi.org/10.1177/21677026251370092>
 
 Neville, C. M., & Williams, M. N. (2025). Does truth pay? Investigating the effectiveness of the Bayesian truth serum with an interim payment: A registered report. *Advances in Methods and Practices in Psychological Science, 8*(3). <https://doi.org/10.1177/25152459251343043>
 
+Henry, N. I. N., Pedersen, M., Williams, M. N., Martin, J. L. B., & Donkin, L. (2025). A hormetic approach to the value-loading problem: Preventing the paperclip apocalypse? *SN Computer Science, 6*. <https://doi.org/10.1007/s42979-025-04369-4>
+
 Doyle, E. E. H., Thompson, J., Hill, S. R., Williams, M., Paton, D., Harrison, S. E., Bostrom, A., & Becker, J. S. (2025). Communicating natural hazards science advice: Understanding scientists’, decision-makers’, and the public’s perceptions of the scientific process. *International Journal of Disaster Risk Reduction*, *128*, 105731. <https://doi.org/10.1016/j.ijdrr.2025.105731>
 
-Faulkner, J. W., Snell, D., Theadom, A., Siegert, R. J., Nielsen, K., & Williams, M. N. (n.d.). Identifying the bridges between post concussion symptoms and psychological distress in mild traumatic brain injury using network analysis. *The Journal of Head Trauma Rehabilitation*. <https://doi.org/10.1097/HTR.0000000000001104>
+Faulkner, J. W., Snell, D., Theadom, A., Siegert, R. J., Nielsen, K., & Williams, M. N. (2025). Identifying the bridges between post concussion symptoms and psychological distress in mild traumatic brain injury using network analysis. *The Journal of Head Trauma Rehabilitation*. <https://doi.org/10.1097/HTR.0000000000001104>
 
-Henry, N. I. N., Pedersen, M., Williams, M. N., Martin, J. L. B., & Donkin, L. (2023). Reducing echo chamber effects: An allostatic regulator for recommendation algorithms. *Journal of Psychology and AI, 1*(1). <https://doi.org/10.1080/29974100.2025.2517191>
+Henry, N. I. N., Pedersen, M., Williams, M. N., Martin, J. L. B., & Donkin, L. (2025). Reducing echo chamber effects: An allostatic regulator for recommendation algorithms. *Journal of Psychology and AI, 1*(1). <https://doi.org/10.1080/29974100.2025.2517191>
 
 Williams, M. N., Marques, M. D., Kerr, J. R., Hill, S. R., Ling, M., & Clarke, E. J. R. (2025). Does developing a belief in one conspiracy theory lead a person to be more likely to believe in others? *European Journal of Social Psychology, 55*(4), 554-564. <https://doi.org/10.1002/ejsp.3153>
 
@@ -119,10 +123,6 @@ Williams, M. W. M., & Williams, M. N. (2012). Academic dishonesty, self-control 
 Williams, M. N., & Jones, L. M. (2012). Validating a measure of children’s monitoring-blunting coping styles in dental situations. *Psychology, Health & Medicine, 17*, 274–284. <https://doi.org/10.1080/13548506.2011.601748> Postprint: <https://mro.massey.ac.nz/handle/10179/9467>
 
 ## Preprints
-
-Henry, N. I. N., Pedersen, M., Williams, M. N., Martin, J. L. B., & Donkin, L. (2024). A hormetic approach to the value-loading problem: Preventing the paperclip apocalypse? *ArXiv*. <https://arxiv.org/abs/2402.07462>
-
-Paing, L. A., O'Keefe, K. M. P., McMurtrie, B. L., & Williams, M. N. (2023). Does answering survey questions about mental health cause distress? *PsyArXiv*. <https://doi.org/10.31234/osf.io/pqnvx>
 
 Damnjanovic, N., Williams, M. N., & Ross, K. (2023). The “ACT-ive” pursuit of loss and gain: The impact of an Acceptance and Commitment Therapy-based intervention on post weight-loss surgery individuals. *PsyArXiv*. <https://doi.org/10.31234/osf.io/5mbeq>
 
