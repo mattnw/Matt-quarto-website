@@ -2,11 +2,13 @@
 
 Clarke, E., Eckerle, F., Kerr, J., Hill, S., Ling, M., Marques, M., & Williams, M. (in press). Extremism at the centre: Uncovering political diversity amongst midpoint responders on the left-right self-placement item. *Political Psychology*. Preprint: <https://doi.org/10.31234/osf.io/q72e4_v2>
 
+McMurtrie, B., Williams, M., Hebden, R., Roemer, A., & Philipp, M. (in press). Affective polarization and wellbeing: Is resentment like drinking poison? *International Review of Social Psychology.* Postprint: <https://doi.org/10.31234/osf.io/4hrkj_v2>
+
 Berks, J., & Williams, M. N. (in press). Does conflictual dialogue improve a story? *Europe's Journal of Psychology*.
 
-Feather, G., & Williams, M. N. (in press). A psychometric evaluation of the Climate Change Anxiety Scale. *New Zealand Journal of Psychology*. Postprint: <https://doi.org/10.31234/osf.io/uzf7j>
-
 Paing, L. A., O'Keefe, K. M. P., McMurtrie, B. L., & Williams, M. N. (in press). Does answering survey questions about mental health cause distress? *Meta-Psychology*. Postprint: <https://doi.org/10.31234/osf.io/pqnvx>
+
+Feather, G., & Williams, M. N. (in press). A psychometric evaluation of the Climate Change Anxiety Scale. *New Zealand Journal of Psychology*. Postprint: <https://doi.org/10.31234/osf.io/uzf7j>
 
 ## Published articles
 
@@ -28,9 +30,9 @@ Faulkner, J., Prouty, D., Devlin, L., Appleton, D., Roche, M., Below, K., Moffat
 
 McLean, T., Williams, M. N., & Stephens, C. (2025). How did the depression and anxiety levels of older New Zealanders change during the COVID-19 pandemic? *Psychology, Health & Medicine, 30*(2), 209-220. <https://doi.org/10.1080/13548506.2024.2407437>
 
-Valdes, E. A., Liu, J. H., Williams, M. N., & Carr, S. C. (2024). A cross-cultural test of competing hypotheses about system justification using data from 42 nations. *Political Psychology, 46*(4), 822-846. <https://doi.org/10.1111/pops.13039>
+Valdes, E. A., Liu, J. H., Williams, M. N., & Carr, S. C. (2025). A cross-cultural test of competing hypotheses about system justification using data from 42 nations. *Political Psychology, 46*(4), 822-846. <https://doi.org/10.1111/pops.13039>
 
-Birchall, M., Drummond, A., & Williams, M. N. (2024). Antecedents of bullying victimisation in adolescents: a fresh look at Aotearoa New Zealand. *Kōtuitui: New Zealand Journal of Social Sciences Online, 20*(4), 528-541. Advance online publication. <https://doi.org/10.1080/1177083X.2024.2385427>
+Birchall, M., Drummond, A., & Williams, M. N. (2025). Antecedents of bullying victimisation in adolescents: a fresh look at Aotearoa New Zealand. *Kōtuitui: New Zealand Journal of Social Sciences Online, 20*(4), 528-541. <https://doi.org/10.1080/1177083X.2024.2385427>
 
 Beaudry, J. L., Williams, M. N., Philipp, M. C., & Kothe, E. J. (2024). What do incoming university students believe about open science practices in psychology? *Teaching of Psychology, 51*(3), 269-276. <https://doi.org/10.1177/00986283221100276> Postprint: <https://doi.org/10.31234/osf.io/rq3zs>
 
