@@ -1,7 +1,5 @@
 ## In press
 
-Clarke, E., Eckerle, F., Kerr, J., Hill, S., Ling, M., Marques, M., & Williams, M. (in press). Extremism at the centre: Uncovering political diversity amongst midpoint responders on the left-right self-placement item. *Political Psychology*. Preprint: <https://doi.org/10.31234/osf.io/q72e4_v2>
-
 McMurtrie, B., Williams, M., Hebden, R., Roemer, A., & Philipp, M. (in press). Affective polarization and wellbeing: Is resentment like drinking poison? *International Review of Social Psychology.* Postprint: <https://doi.org/10.31234/osf.io/4hrkj_v2>
 
 Berks, J., & Williams, M. N. (in press). Does conflictual dialogue improve a story? *Europe's Journal of Psychology*.
@@ -11,6 +9,8 @@ Paing, L. A., O'Keefe, K. M. P., McMurtrie, B. L., & Williams, M. N. (in press).
 Feather, G., & Williams, M. N. (in press). A psychometric evaluation of the Climate Change Anxiety Scale. *New Zealand Journal of Psychology*. Postprint: <https://doi.org/10.31234/osf.io/uzf7j>
 
 ## Published articles
+
+Clarke, E., Eckerle, F., Kerr, J., Hill, S., Ling, M., Marques, M., & Williams, M. (2025). Extremism at the centre: Uncovering political diversity amongst midpoint responders on the left-right self-placement item. *Political Psychology*. Advance online publication. <https://doi.org/10.1111/pops.70082>
 
 Fox, N. D., Williams, M. N., & Hill, S. R. (2025). Do stress, depression, and anxiety lead to beliefs in conspiracy theories? *Clinical Psychological Science*. Advance online publication. <https://doi.org/10.1177/21677026251370092>
 
