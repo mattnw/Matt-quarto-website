@@ -10,7 +10,7 @@ Feather, G., & Williams, M. N. (in press). A psychometric evaluation of the Clim
 
 Marques, M. D., Williams, M. N., Clarke, E. J. R., Fida, N., Heffernan, J., Hill, S. R., Kerr, J. R., Ling, M., Parkinson, C., Thermos, M., & Tier, J. (2026). Testing the socio-functional model: Does precarity cause conspiracy belief? *British Journal of Social Psychology, 65*(1). <https://doi.org/10.1111/bjso.70037>
 
-McMurtrie, B., Williams, M., Hebden, R., Roemer, A., & Philipp, M. (2025). Affective polarization and wellbeing: Is resentment like drinking poison? *International Review of Social Psychology, 38*(1)*.* <https://doi.org/10.5334/irsp.1052>
+McMurtrie, B., Williams, M., Hebden, R., Roemer, A., & Philipp, M. (2025). Political polarization and wellbeing: Investigating potential intrapersonal harm from affective polarization. *International Review of Social Psychology, 38*(1)*.* <https://doi.org/10.5334/irsp.1052>
 
 Henry, N. I. N., Pedersen, M., Williams, M., N., & Donkin, L. (2025). Quantifying opponent process dynamics in pornography use and masturbation: An exploratory ecological momentary assessment study. *Archives of Sexual Behavior*. Advance online publication. <https://doi.org/10.1007/s10508-025-03287-z>
 
@@ -78,7 +78,7 @@ Williams, M. N., & Marshall-Edwards, S. (2022). Conceptual replication of Seo (2
 
 Holman, M., & Williams, M. N. (2022). Suicide risk and protective factors: A network approach. *Archives of Suicide Research, 26*(1), 137-154. <https://doi.org/10.1080/13811118.2020.1774454> Preprint: <https://doi.org/10.31234/osf.io/rf4ej>
 
-Smith, J. H., Kempton, H. M., Williams, M. N., & van Ommen, C. (2021). Mindfulness as practice: A network analysis of FMI data. *Counselling and Psychotherapy Research, 21*(4), 899-909. https://doi.org/10.1002/capr.12400 Postprint: <https://doi.org/10.31234/osf.io/4rymb>
+Smith, J. H., Kempton, H. M., Williams, M. N., & van Ommen, C. (2021). Mindfulness as practice: A network analysis of FMI data. *Counselling and Psychotherapy Research, 21*(4), 899-909. <https://doi.org/10.1002/capr.12400> Postprint: <https://doi.org/10.31234/osf.io/4rymb>
 
 Marques, M. D., Kerr, J., Williams, M. N., Ling, M., & McLennan, J. (2021). Associations between conspiracism and the rejection of scientific innovations. *Public Understanding of Science, 30*(7), 854-867. <https://doi.org/10.1177/09636625211007013> Preprint: <https://doi.org/10.31234/osf.io/y9mnb>
 
