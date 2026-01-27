@@ -132,6 +132,8 @@ Williams, M. W. M., & Williams, M. N. (2012). Academic dishonesty, self-control 
 
 ## Preprints
 
+Williams, M. N., Marques, M. D., Ling, M., Hill, S. R., Kerr, J. R., Clarke, E. J. R., Martin, A., & Ross, R. M. (2026). Do you really believe that? Examining the prevalence and predictors of belief in conspiracy theories when accounting for insincerity \[Stage 2 Registered Report\]. <https://doi.org/10.31234/osf.io/9ntf2_v1> PCI RR recommendation: <https://rr.peercommunityin.org/PCIRegisteredReports/articles/rec?id=1201>
+
 Damnjanovic, N., Williams, M. N., & Ross, K. (2023). The “ACT-ive” pursuit of loss and gain: The impact of an Acceptance and Commitment Therapy-based intervention on post weight-loss surgery individuals. *PsyArXiv*. <https://doi.org/10.31234/osf.io/5mbeq>
 
 van Beynen, J., & Williams, M. N. (2023). Communicating the scientific consensus on climate change: A preregistered test of the gateway belief model with a one-week time delay. *PsyArXiv*. <https://doi.org/10.31234/osf.io/f3svr>
