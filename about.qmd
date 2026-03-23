@@ -1,5 +1,7 @@
 ## In press
 
+Williams, M. N., Marques, M. D., Ling, M., Hill, S. R., Kerr, J. R., Clarke, E. J. R., Martin, A., & Ross, R. M. (in press). Do you really believe that? Examining the prevalence and predictors of belief in conspiracy theories when accounting for insincerity \[Stage 2 Registered Report\]. *Royal Society Open Science*. <https://doi.org/10.31234/osf.io/9ntf2_v1>
+
 Paing, L. A., O'Keefe, K. M. P., McMurtrie, B. L., & Williams, M. N. (in press). Does answering survey questions about mental health cause distress? *Meta-Psychology*. Postprint: <https://doi.org/10.31234/osf.io/pqnvx>
 
 Feather, G., & Williams, M. N. (in press). A psychometric evaluation of the Climate Change Anxiety Scale. *New Zealand Journal of Psychology*. Postprint: <https://doi.org/10.31234/osf.io/uzf7j>
@@ -134,7 +136,8 @@ Williams, M. W. M., & Williams, M. N. (2012). Academic dishonesty, self-control 
 
 ## Preprints
 
-Williams, M. N., Marques, M. D., Ling, M., Hill, S. R., Kerr, J. R., Clarke, E. J. R., Martin, A., & Ross, R. M. (2026). Do you really believe that? Examining the prevalence and predictors of belief in conspiracy theories when accounting for insincerity \[Stage 2 Registered Report\]. <https://doi.org/10.31234/osf.io/9ntf2_v1> PCI RR recommendation: <https://rr.peercommunityin.org/PCIRegisteredReports/articles/rec?id=1201>
+Williams, M. N. (2025). EMDR didn’t do that: Inconsistent numeric findings in Gauhar (2016). *PsyArXiv.*
+<https://doi.org/10.31234/osf.io/6awdf_v1> \[Gauhar 2016 was subsequently retracted on 1 Dec 2025\]
 
 Damnjanovic, N., Williams, M. N., & Ross, K. (2023). The “ACT-ive” pursuit of loss and gain: The impact of an Acceptance and Commitment Therapy-based intervention on post weight-loss surgery individuals. *PsyArXiv*. <https://doi.org/10.31234/osf.io/5mbeq>
 
