@@ -8,11 +8,13 @@ Feather, G., & Williams, M. N. (in press). A psychometric evaluation of the Clim
 
 ## Published articles
 
+Bertero, A., Williams, M., Vegetti, F., & Mancosu, M. (2026). Searching for the core of conspiracy belief systems: The relationship between specific beliefs and generic mentality. *European Journal of Social Psychology*. Advance online publication. <https://doi.org/10.1002/ejsp.70122>
+
 Williams, M. N., Kerr, J. R., Marques, M. D., Abu-Obeid, H., & Hill, S. R. (2026). How does belief in conspiracy theories affect loneliness and connectedness? A longitudinal investigation. *Frontiers in Social Psychology*, *4*. <https://doi.org/10.3389/frsps.2026.1892137>
 
 Williams, M. N., Marques, M. D., Ling, M., Hill, S. R., Kerr, J. R., Clarke, E. J. R., Martin, A., & Ross, R. M. (2026). Do you *really* believe that? Examining the prevalence and predictors of belief in conspiracy theories when accounting for insincerity \[Registered Report\]. *Royal Society Open Science, 13*(5). <https://doi.org/10.1098/rsos.260163>
 
-McMurtrie, B., Williams, M., Philipp, M., Roemer, A., & Hebden, R. (2026). Political social identity threat predicts increases in affective polarisation over time, but not changes in well-being. *European Journal of Social Psychology*. Advance online publication. <https://doi.org/10.1002/ejsp.70081>
+McMurtrie, B., Williams, M., Philipp, M., Roemer, A., & Hebden, R. (2026). Political social identity threat predicts increases in affective polarisation over time, but not changes in well-being. *European Journal of Social Psychology*, *56*(5), 873-884. <https://doi.org/10.1002/ejsp.70081>
 
 Buchwald, K., Vignes, M., Sandham, M., Narayanan, A., Williams, M., & Siegert, R. (2026). Evidence for the network theory of mental disorders in people at ultra high risk of and diagnosed with schizophrenia. *Collabra: Psychology*, *12*(1), 158304. <https://doi.org/10.1525/collabra.158304>
 
@@ -24,15 +26,15 @@ McMurtrie, B., Williams, M., Hebden, R., Roemer, A., & Philipp, M. (2025). Polit
 
 Henry, N. I. N., Pedersen, M., Williams, M., N., & Donkin, L. (2025). Quantifying opponent process dynamics in pornography use and masturbation: An exploratory ecological momentary assessment study. *Archives of Sexual Behavior, 54*, 3313-3334. <https://doi.org/10.1007/s10508-025-03287-z>
 
-Clarke, E., Eckerle, F., Kerr, J., Hill, S., Ling, M., Marques, M., & Williams, M. N. (2025). Extremism at the centre: Uncovering political diversity amongst midpoint responders on the left-right self-placement item. *Political Psychology*. Advance online publication. <https://doi.org/10.1111/pops.70082>
+Clarke, E., Eckerle, F., Kerr, J., Hill, S., Ling, M., Marques, M., & Williams, M. N. (2025). Extremism at the centre: Uncovering political diversity amongst midpoint responders on the left-right self-placement item. *Political Psychology*, *47*(4). <https://doi.org/10.1111/pops.70082>
 
 Henry, N. I. N., Pedersen, M., Williams, M. N., Martin, J. L. B., & Donkin, L. (2025). A hormetic approach to the value-loading problem: Preventing the paperclip apocalypse? *SN Computer Science, 6*. <https://doi.org/10.1007/s42979-025-04369-4>
 
 Doyle, E. E. H., Thompson, J., Hill, S. R., Williams, M., Paton, D., Harrison, S. E., Bostrom, A., & Becker, J. S. (2025). Communicating natural hazards science advice: Understanding scientists’, decision-makers’, and the public’s perceptions of the scientific process. *International Journal of Disaster Risk Reduction*, *128*, 105731. <https://doi.org/10.1016/j.ijdrr.2025.105731>
 
-Fox, N. D., Williams, M. N., & Hill, S. R. (2025). Do stress, depression, and anxiety lead to beliefs in conspiracy theories? *Clinical Psychological Science*. Advance online publication. <https://doi.org/10.1177/21677026251370092>
+Fox, N. D., Williams, M. N., & Hill, S. R. (2025). Do stress, depression, and anxiety lead to beliefs in conspiracy theories? *Clinical Psychological Science*, *14*(3), 296-311. <https://doi.org/10.1177/21677026251370092>
 
-Faulkner, J. W., Snell, D., Theadom, A., Siegert, R. J., Nielsen, K., & Williams, M. N. (2025). Identifying the bridges between post concussion symptoms and psychological distress in mild traumatic brain injury using network analysis. *The Journal of Head Trauma Rehabilitation*. <https://doi.org/10.1097/HTR.0000000000001104>
+Faulkner, J. W., Snell, D., Theadom, A., Siegert, R. J., Nielsen, K., & Williams, M. N. (2025). Identifying the bridges between post concussion symptoms and psychological distress in mild traumatic brain injury using network analysis. *The Journal of Head Trauma Rehabilitation, 41*(3), E207-E218. <https://doi.org/10.1097/HTR.0000000000001104>
 
 Neville, C. M., & Williams, M. N. (2025). Does truth pay? Investigating the effectiveness of the Bayesian truth serum with an interim payment: A registered report. *Advances in Methods and Practices in Psychological Science, 8*(3). <https://doi.org/10.1177/25152459251343043>
 
